@@ -1,0 +1,25 @@
+{
+  "name": "url-project-v1",
+  "version": "1.0.0",
+  "description": "Url shortner project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hossain-shahrier/url-shortner.git"
+  },
+  "keywords": [
+    "url"
+  ],
+  "author": "Shahrier Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hossain-shahrier/url-shortner/issues"
+  },
+  "homepage": "https://github.com/hossain-shahrier/url-shortner#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
